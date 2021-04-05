@@ -1,0 +1,1617 @@
+{
+	"page_id": 55486,
+	"page_name": "Paytm Homepage",
+	"context": {
+		"user": {
+			"user_id": 1000376298,
+			"idfa": "00000000-0000-0000-0000-000000000000"
+		},
+		"request_id": "c8498cf0-66d6-11eb-9f54-f37bc40eb20a"
+	},
+	"page": [{
+		"id": 302613,
+		"views": [{
+			"type": "smart-icon-header-v2",
+			"id": 302613,
+			"title": "PAY OR MONEY TRANSFER",
+			"subtitle": "Pay directly from Bank. Wallet KYC not needed!",
+			"image_url": "https://assetscdn1.paytm.com/images/catalog/view/302613/1611134943383.png",
+			"items": [{
+				"id": 696160,
+				"priority": 6,
+				"name": "Pay",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/696160/1609220422358.png",
+				"url_type": "wallet-pay",
+				"url": "paytmmp://pay-scanqr",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://pay-scanqr",
+				"display_metadata": {
+					"name": "Pay",
+					"url": "paytmmp://pay-scanqr",
+					"landing_page_type": "wallet-pay",
+					"id": 696160,
+					"created_at": "2020-12-18T05:05:56",
+					"metadata": {
+						"icon_view_id": "",
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1608302750745_scananndpay3x.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 696165,
+				"priority": 11,
+				"name": "Send Money To Anyone",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/696165/1608268161262.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=money_transfer",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://cash_wallet?featuretype=money_transfer",
+				"display_metadata": {
+					"name": "Send Money To Anyone",
+					"url": "paytmmp://cash_wallet?featuretype=money_transfer",
+					"landing_page_type": "embed",
+					"id": 696165,
+					"created_at": "2020-12-18T05:09:22",
+					"metadata": {
+						"icon_view_id": "",
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1608268154530_upi.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 693780,
+				"priority": 24,
+				"name": "Recharge & Pay Bills",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/693780/1608009420131.png",
+				"url_type": "embed",
+				"url": "paytmmp://sflanding?url=https://storefront.paytm.com/v2/h/recharges-storefront&title=jr_recharge_sf_title&backbtn=true&vertical=rechargeAndUtilities",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Mobile Prepaid",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://sflanding?url=https://storefront.paytm.com/v2/h/recharges-storefront&title=jr_recharge_sf_title&backbtn=true&vertical=rechargeAndUtilities",
+				"display_metadata": {
+					"name": "Recharge & Pay Bills",
+					"url": "paytmmp://sflanding?url=https://storefront.paytm.com/v2/h/recharges-storefront&title=jr_recharge_sf_title&backbtn=true&vertical=rechargeAndUtilities",
+					"landing_page_type": "embed",
+					"id": 693780,
+					"created_at": "2020-12-14T06:40:45",
+					"metadata": {
+						"icon_view_id": ""
+					},
+					"ga_category": "Mobile Prepaid",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1607928031465_1604900317039rechargepaybill.png"
+				},
+				"reason": "D:SD"
+			}],
+			"viewItems": [{
+				"id": 702405,
+				"priority": 0,
+				"name": "Onboarding Add Money Upto 50_Jan21",
+				"title": null,
+				"subtitle": null,
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/702405/1609759228661.png",
+				"alt_image_url": null,
+				"url_info": "embed",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=add_money",
+				"source": "widgetServe",
+				"item_id": 0,
+				"ga_category": "Others",
+				"start_time": null,
+				"end_time": null,
+				"cta": null,
+				"valid_from": null,
+				"valid_upto": null,
+				"metadata": {
+					"region": false,
+					"app_version": false
+				},
+				"layout": {},
+				"seourl": "paytmmp://cash_wallet?featuretype=add_money",
+				"bannerId": "702405",
+				"subContext": "smart-doodle-widget",
+				"ct_campaign_id": "50111_20210204",
+				"j": "56747419",
+				"type": "onboarding_historical user",
+				"ct_variant_id": "Variant E",
+				"reason": "JOURNEY:onboardinguat"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302613,
+				"container_id": 22053599,
+				"container_instance_id": "000000016FDA94F0A1DC09F53A57C253FCB94806"
+			}],
+			"meta_layout": {
+				"bg_color": "#c11a1a",
+				"bg_gradient": ["#FFFFFF", "#F0FBFF", "#EEFAFF", "#ECF9FE", "#D2F1FE", "#B2E8FF"]
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 302654,
+		"views": [{
+			"type": "carousal-icon-4x",
+			"id": 302654,
+			"title": "You have upcoming Bills to Pay",
+			"subtitle": "You have upcoming Bills to Pay",
+			"items": [],
+			"datasources": [{
+				"manage_by_ct": 1,
+				"view_id": 302654,
+				"view_type": "carousal-icon-4x",
+				"container_id": 22053587,
+				"fulfilled_by": "COCOA"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 302614,
+		"views": [{
+			"type": "smart-icon-grid-4xn",
+			"id": 302614,
+			"title": "My Paytm",
+			"items": [{
+				"id": 703145,
+				"priority": 2,
+				"name": "Balance & History",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703145/1612344356138.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=cash_ledger",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {
+					"label": "Passbook",
+					"label_text_color": "#000000",
+					"label_bgcolor": "#FFD766"
+				},
+				"seourl": "paytmmp://cash_wallet?featuretype=cash_ledger",
+				"display_metadata": {
+					"name": "Balance & History",
+					"url": "paytmmp://cash_wallet?featuretype=cash_ledger",
+					"landing_page_type": "embed",
+					"id": 703145,
+					"created_at": "2021-01-05T15:50:14",
+					"metadata": {
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1609861467968_1603617044024acbalancehistory023x.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 690065,
+				"priority": 7,
+				"name": "Paytm Bank",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/690065/1611742176121.png",
+				"url_type": "embed",
+				"url": "paytmmp://payment_bank?featuretype=bank_landing",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://payment_bank?featuretype=bank_landing",
+				"display_metadata": {
+					"name": "Paytm Bank",
+					"url": "paytmmp://payment_bank?featuretype=bank_landing",
+					"landing_page_type": "embed",
+					"id": 690065,
+					"created_at": "2020-12-03T11:13:31",
+					"metadata": {
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1606993446489_1601277418853paytmbank2.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 703144,
+				"priority": 11,
+				"name": "Paytm Wallet",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703144/1612344447451.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=add_money",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {
+					"label": "Add Money",
+					"label_text_color": "#000000",
+					"label_bgcolor": "#FFD766"
+				},
+				"seourl": "paytmmp://cash_wallet?featuretype=add_money",
+				"display_metadata": {
+					"name": "Paytm Wallet",
+					"url": "paytmmp://cash_wallet?featuretype=add_money",
+					"landing_page_type": "embed",
+					"id": 703144,
+					"created_at": "2021-01-05T15:47:56",
+					"metadata": {
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1609861577187_1608815453437wallet.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 657740,
+				"priority": 21,
+				"name": "All Services",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/657740/1612241827563.png",
+				"url_type": "embed",
+				"url": "paytmmp://paytmmore",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": false,
+				"layout": {},
+				"seourl": "paytmmp://paytmmore",
+				"display_metadata": {
+					"name": "All Services",
+					"url": "paytmmp://paytmmore",
+					"landing_page_type": "embed",
+					"id": 657740,
+					"created_at": "2020-10-09T11:03:04",
+					"metadata": {
+						"icon_view_id": "",
+						"recent_services": "0"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1605612729349_allservices1.png"
+				},
+				"reason": "D:SD"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302614,
+				"container_id": 22053594,
+				"container_instance_id": "000000016F50012FFB0C026962D9EFDAE8544264"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 304002,
+		"views": [{
+			"type": "banner-3_0",
+			"id": 304002,
+			"title": "Digital Thin Banner 3.0 New",
+			"items": [{
+				"id": 722729,
+				"priority": 0,
+				"name": "DOA_Add Money Default",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722729/1612106212184.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=add_money",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://cash_wallet?featuretype=add_money",
+				"bannerId": "722729",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant D",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 712385,
+				"priority": 0,
+				"name": "Onboarding_KYC_Thin3.0",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/712385/1610704779705.jpg",
+				"url_type": "embed",
+				"url": "paytmmp://upgrade_wallet",
+				"source": "widgetServe",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://upgrade_wallet",
+				"bannerId": "712385",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant C",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 722363,
+				"priority": 0,
+				"name": "DOA_Link bank A/c",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722363/1611988500073.png",
+				"url_type": "embed",
+				"url": "paytmmp://upi_landing",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://upi_landing",
+				"bannerId": "722363",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant A",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 723696,
+				"priority": 0,
+				"name": "DOA_Electricity",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/723696/1612266804101.png",
+				"url_type": "utility",
+				"url": "paytmmp://utility?url=https://catalog.paytm.com/v1/mobile/getproductlist/26?group=brand",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://utility?url=https://catalog.paytm.com/v1/mobile/getproductlist/26?group=brand",
+				"bannerId": "723696",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant E",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 722727,
+				"priority": 0,
+				"name": "DOA_Paymode new default",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722727/1612105535768.jpg",
+				"url_type": "mobile-prepaid",
+				"url": "paytmmp://mobile-prepaid?url=https://catalog.paytm.com/v1/mobile/mobile-prepaid/17",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://mobile-prepaid?url=https://catalog.paytm.com/v1/mobile/mobile-prepaid/17",
+				"bannerId": "722727",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant B",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 723701,
+				"priority": 0,
+				"name": "DOA_DTH",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/723701/1612267385550.png",
+				"url_type": "embed",
+				"url": "paytmmp://dth?url=https://catalog.paytm.com/v1/mobile/DTH/18",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://dth?url=https://catalog.paytm.com/v1/mobile/DTH/18",
+				"bannerId": "723701",
+				"subContext": "banner-3_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant F",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 717522,
+				"priority": 0,
+				"name": "FD 3.0",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/717522/1611328526030.jpg",
+				"url_type": "embed",
+				"url": "paytmmp://payment_bank?featuretype=create_fd",
+				"source": "widgetServeFallback",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://payment_bank?featuretype=create_fd",
+				"reason": "JOURNEY:onboardinguat"
+			}],
+			"datasources": [{
+				"manage_by_ct": 1,
+				"view_id": 304002,
+				"view_type": "banner-3_0",
+				"container_id": 22053809,
+				"fulfilled_by": "WIDGET_SERVE"
+			}],
+			"meta_layout": {
+				"bg_color": "#f5f9fe",
+				"bg_gradient": []
+			},
+			"class": "home",
+			"auto_scroll": "True",
+			"dwell_time": "5.0",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 302617,
+		"views": [{
+			"type": "smart-icon-grid-4xn",
+			"id": 302617,
+			"title": "Featured",
+			"subtitle": "paytmmp://sflanding?url=https://storefront.paytm.com/v2/h/show-more-icons-ios&backbtn=true",
+			"seourl": "paytmmp://paytmmore",
+			"items": [{
+				"id": 683075,
+				"priority": 3,
+				"name": "Monthly Bills",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/683075/1611742622419.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/home?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 318,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [296690],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": false,
+				"layout": {},
+				"url_key": "home",
+				"seourl": "https://storefront.paytm.com/v2/h/home?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/home-clpid-318?src=store&from=storefront",
+				"display_metadata": {
+					"name": "Monthly Bills",
+					"landing_page_type": "homepage1",
+					"id": 683075,
+					"created_at": "2020-11-17T11:51:48",
+					"metadata": {
+						"icon_view_id": "296690",
+						"recent_services": "0"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1605613970714_homeservcies1.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 687924,
+				"priority": 8,
+				"name": "Online Shopping",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/687924/1612428700859.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/home?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 318,
+				"ga_category": "Cross Category",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"url_key": "home",
+				"seourl": "https://storefront.paytm.com/v2/h/home?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/home-clpid-318?src=store&from=storefront",
+				"display_metadata": {
+					"name": "Online Shopping",
+					"landing_page_type": "homepage1",
+					"id": 687924,
+					"created_at": "2020-11-27T16:21:22",
+					"metadata": {
+						"recent_services": "1",
+						"vertical": ""
+					},
+					"ga_category": "Cross Category",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1612428671147_shopping3.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 638942,
+				"priority": 18,
+				"name": "Travel Bookings",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/638942/1611742698520.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/homepage-icons?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 8125,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [48385],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": false,
+				"layout": {},
+				"url_key": "homepage-icons",
+				"seourl": "https://storefront.paytm.com/v2/h/homepage-icons?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/homepage-icons-clpid-8125?src=store&from=storefront",
+				"display_metadata": {
+					"name": "Travel Bookings",
+					"landing_page_type": "homepage1",
+					"id": 638942,
+					"created_at": "2020-09-16T09:07:41",
+					"metadata": {
+						"icon_view_id": "48385",
+						"recent_services": "0"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1605614163909_travel1.png"
+				},
+				"reason": "F:FF"
+			}, {
+				"id": 724673,
+				"priority": 33,
+				"name": "Movie Tickets",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/724673/1612415178034.png",
+				"url_type": "movietickets",
+				"url": "https://paytm.com/movies",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "https://paytm.com/movies",
+				"display_metadata": {
+					"name": "Movie Tickets",
+					"url": "https://paytm.com/movies",
+					"landing_page_type": "movietickets",
+					"id": 724673,
+					"created_at": "2021-02-04T04:58:09",
+					"metadata": {
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1612414622127_1601298133395movies.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 683077,
+				"priority": 47,
+				"name": "Paytm Postpaid",
+				"title": "Paytm Postpaid",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/683077/1609151948838.png",
+				"url_type": "embed",
+				"url": "paytmmp://paytm-postpaid",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://paytm-postpaid",
+				"display_metadata": {
+					"name": "Paytm Postpaid",
+					"url": "paytmmp://paytm-postpaid",
+					"landing_page_type": "embed",
+					"id": 683077,
+					"created_at": "2020-11-17T12:02:46",
+					"metadata": {
+						"ticker_view_id": "",
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"title": "Paytm Postpaid",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1602777895647_postpaid.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 655988,
+				"priority": 72,
+				"name": "Insurance Quotes",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/655988/1611743082374.png",
+				"url_type": "embed",
+				"url": "paytmmp://insurance_buy",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://insurance_buy",
+				"display_metadata": {
+					"name": "Insurance Quotes",
+					"url": "paytmmp://insurance_buy",
+					"landing_page_type": "embed",
+					"id": 655988,
+					"created_at": "2020-10-05T11:04:18",
+					"metadata": {
+						"recent_services": "1"
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1601895830657_insurance.png"
+				},
+				"reason": "F:FF"
+			}, {
+				"id": 720733,
+				"priority": 82,
+				"name": "Paytm Money",
+				"title": "Paytm Money",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/720733/1611842148604.png",
+				"url_type": "paytmmoney",
+				"url": "http://pytm.my/e_opt",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Paytm Money",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "http://pytm.my/e_opt",
+				"display_metadata": {
+					"name": "Paytm Money",
+					"url": "http://pytm.my/e_opt",
+					"landing_page_type": "paytmmoney",
+					"id": 720733,
+					"created_at": "2021-01-28T08:02:14",
+					"metadata": {
+						"ticker_view_id": ""
+					},
+					"ga_category": "Paytm Money",
+					"title": "Paytm Money",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1611842132250_paytmmoney.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 652790,
+				"priority": 101,
+				"name": "Manage FASTag",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/652790/1612362021135.png",
+				"url_type": "embed",
+				"url": "paytmmp://fastag",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Fastag",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://fastag",
+				"display_metadata": {
+					"name": "Manage FASTag",
+					"url": "paytmmp://fastag",
+					"landing_page_type": "embed",
+					"id": 652790,
+					"created_at": "2020-09-29T04:31:42",
+					"metadata": {
+						"icon_view_id": "",
+						"recent_services": "1"
+					},
+					"ga_category": "Fastag",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1606813542691_1605629275776managefastag.png"
+				},
+				"reason": "D:SD"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302617,
+				"container_id": 22053602,
+				"container_instance_id": "0000000189954625923C75ED7BC2539EF8695B55"
+			}],
+			"meta_layout": {
+				"bg_color": "#f5f9fe",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"viewall_label": "See All",
+			"viewless_label": "See Less",
+			"viewall_image": "https://assetscdn1.paytm.com/images/catalog/view/1605614778892.png",
+			"viewless_image": "https://assetscdn1.paytm.com/images/catalog/view/1605614721315.png",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 302619,
+		"views": [{
+			"type": "smart-icon-button-2xn",
+			"id": 302619,
+			"title": "Recommended",
+			"items": [{
+				"id": 719892,
+				"priority": 64,
+				"name": "Hot Deals",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/719892/1611724151306.png",
+				"url_type": "grid",
+				"url": "https://middleware.paytmmall.com/v1/mobile/grid/277989?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 277989,
+				"ga_category": "Cross Category",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"url_key": "central-store/deal-of-the-day-1",
+				"seourl": "https://middleware.paytmmall.com/v1/g/central-store/deal-of-the-day-1?src=store&from=storefront",
+				"newurl": "https://middleware.paytmmall.com/Deal-Of-the-Day-5th-jan-llpid-277989?use_mw=1&src=store&from=storefront",
+				"display_metadata": {
+					"name": "Hot Deals",
+					"landing_page_type": "list_grid",
+					"id": 719892,
+					"created_at": "2021-01-27T05:08:08",
+					"metadata": {
+						"ticker_view_id": ""
+					},
+					"ga_category": "Cross Category",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1611586017263_1598882702183hotdealswhite.png"
+				},
+				"reason": "D:SA"
+			}, {
+				"id": 703921,
+				"priority": 49,
+				"name": "Paytm First Membership",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703921/1611839459423.png",
+				"url_type": "embed",
+				"url": "paytmmp://joinprime?utm_source=icon",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://joinprime?utm_source=icon",
+				"display_metadata": {
+					"name": "Paytm First Membership",
+					"url": "paytmmp://joinprime?utm_source=icon",
+					"landing_page_type": "embed",
+					"id": 703921,
+					"created_at": "2021-01-07T06:56:44",
+					"metadata": {
+						"ticker_view_id": ""
+					},
+					"ga_category": "Others",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1603597699133_paytmfirst.png"
+				},
+				"reason": "D:SF"
+			}, {
+				"id": 703925,
+				"priority": 17,
+				"name": "Paytm Postpaid",
+				"title": "Paytm Postpaid_Recommended",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703925/1610003576293.png",
+				"url_type": "embed",
+				"url": "paytmmp://paytm-postpaid",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://paytm-postpaid",
+				"display_metadata": {
+					"name": "Paytm Postpaid",
+					"url": "paytmmp://paytm-postpaid",
+					"landing_page_type": "embed",
+					"id": 703925,
+					"created_at": "2021-01-07T07:13:24",
+					"metadata": {
+						"icon_view_id": "",
+						"ticker_view_id": ""
+					},
+					"ga_category": "Others",
+					"title": "Paytm Postpaid_Recommended",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1600248715359_1599647175171logo1paytmpostpaid.png"
+				},
+				"reason": "D:SA"
+			}, {
+				"id": 703751,
+				"priority": 14,
+				"name": "Pay your Credit Card Bill",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703751/1609953654878.png",
+				"url_type": "utility_creditcard",
+				"url": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Bill Payments",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"recent_services": true,
+				"layout": {},
+				"seourl": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+				"display_metadata": {
+					"name": "Pay your Credit Card Bill",
+					"url": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+					"landing_page_type": "utility_creditcard",
+					"id": 703751,
+					"created_at": "2021-01-06T17:21:16",
+					"metadata": {
+						"ticker_view_id": "",
+						"recent_services": "1"
+					},
+					"ga_category": "Bill Payments",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1609940293648_15544508117011554441443483.png"
+				},
+				"reason": "D:SA"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302619,
+				"container_id": 22053603,
+				"container_instance_id": "00000001FDB603E93B0F811DA31E6A8F18C79D77"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 303822,
+		"views": [{
+			"type": "smart-icon-grid-4xn",
+			"id": 303822,
+			"title": "Shop on Mall",
+			"items": [{
+				"id": 707520,
+				"priority": 2,
+				"name": "Mobiles",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/707520/1611217307834.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/mobiles-tablets?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 6942,
+				"ga_category": "Mall-Mobiles",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"url_key": "mobiles-tablets",
+				"seourl": "https://storefront.paytm.com/v2/h/mobiles-tablets?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/mobiles-tablets-clpid-6942?src=store&from=storefront",
+				"reason": "D:SD"
+			}, {
+				"id": 665342,
+				"priority": 15,
+				"name": "Fashion",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/665342/1610079779952.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/brand-store/fashion-sale?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 165,
+				"ga_category": "Mall-Fashion",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"url_key": "brand-store/fashion-sale",
+				"seourl": "https://storefront.paytm.com/v2/h/brand-store/fashion-sale?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/fashion-sale-clpid-165?src=store&from=storefront",
+				"reason": "D:SD"
+			}, {
+				"id": 665518,
+				"priority": 27,
+				"name": "Home",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/665518/1610079667085.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/home-and-kitchen?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 81,
+				"ga_category": "Mall-Home and Kitchen",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"url_key": "home-and-kitchen",
+				"seourl": "https://storefront.paytm.com/v2/h/home-and-kitchen?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/home-and-kitchen-clpid-81?src=store&from=storefront",
+				"reason": "D:SD"
+			}, {
+				"id": 665352,
+				"priority": 39,
+				"name": "Top Offers",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/665352/1610700975976.png",
+				"url_type": "homepage",
+				"url": "https://storefront.paytm.com/v2/h/top-offers?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 55784,
+				"ga_category": "Cross Category",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"url_key": "top-offers",
+				"seourl": "https://storefront.paytm.com/v2/h/top-offers?src=store&from=storefront",
+				"newurl": "https://storefront.paytm.com/top-offers-clpid-55784?src=store&from=storefront",
+				"reason": "D:SD"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 303822,
+				"container_id": 22053793,
+				"container_instance_id": "0000000164B684EF2C2CFC139DA7F13E6F67C00C"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 304688,
+		"views": [{
+			"type": "portrait-3xn",
+			"id": 304688,
+			"items": [{
+				"id": 712250,
+				"priority": 114,
+				"name": "Sports Shoes | Under 799",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/712250/1610692816907.png",
+				"url_type": "grid",
+				"url": "https://middleware.paytmmall.com/v1/g/men/footwear/sneakers-sport-shoes?use_mw=1&src=store&from=storefront&page=1&price=199%2C799",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Mall-Footwear",
+				"layout": {},
+				"seourl": "https://middleware.paytmmall.com/v1/g/men/footwear/sneakers-sport-shoes?use_mw=1&src=store&from=storefront&page=1&price=199%2C799",
+				"newurl": "https://middleware.paytmmall.com/men-sport-shoes-glpid-5053?use_mw=1&src=store&from=storefront&page=1&price=199%2C799",
+				"display_metadata": {
+					"name": "Sports Shoes | Under 799",
+					"landing_page_type": "smart_list",
+					"id": 712250,
+					"created_at": "2021-01-15T06:40:04",
+					"metadata": {},
+					"ga_category": "Mall-Footwear",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1610000698005_sportshoes.png"
+				},
+				"reason": "D:SA"
+			}, {
+				"id": 712251,
+				"priority": 115,
+				"name": "Watches | Flat 25% Cashback",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/712251/1610692912198.png",
+				"url_type": "grid",
+				"url": "https://middleware.paytmmall.com/v1/mobile/grid/198644?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 198644,
+				"ga_category": "Mall-Fashion Accessories",
+				"layout": {},
+				"url_key": "watches/watches-best-of-brands",
+				"seourl": "https://middleware.paytmmall.com/v1/g/watches/watches-best-of-brands?src=store&from=storefront",
+				"newurl": "https://middleware.paytmmall.com/watches_best_of_brands-llpid-198644?use_mw=1&src=store&from=storefront",
+				"display_metadata": {
+					"name": "Watches | Flat 25% Cashback",
+					"landing_page_type": "list_grid",
+					"id": 712251,
+					"created_at": "2021-01-15T06:40:17",
+					"ga_category": "Mall-Fashion Accessories",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1610341961201_watches1.png"
+				},
+				"reason": "D:SA"
+			}, {
+				"id": 712256,
+				"priority": 120,
+				"name": "Bestselling Laptops_Portrait 3xn",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/712256/1610692904424.png",
+				"url_type": "grid",
+				"url": "https://middleware.paytmmall.com/v1/mobile/grid/233881?src=store&from=storefront",
+				"source": "bp-reco-v1",
+				"item_id": 233881,
+				"ga_category": "Mall-Laptops and PC",
+				"shareable": "1",
+				"layout": {},
+				"url_key": "mobiles-tablets/best-selling-laptops",
+				"seourl": "https://middleware.paytmmall.com/v1/g/mobiles-tablets/best-selling-laptops?src=store&from=storefront",
+				"newurl": "https://middleware.paytmmall.com/best-selling-lap-tops-llpid-233881?use_mw=1&src=store&from=storefront",
+				"display_metadata": {
+					"name": "Bestselling Laptops_Portrait 3xn",
+					"landing_page_type": "list_grid",
+					"id": 712256,
+					"created_at": "2021-01-15T06:41:52",
+					"metadata": {},
+					"ga_category": "Mall-Laptops and PC",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1610085631988_12.png"
+				},
+				"reason": "D:SA"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 304688,
+				"container_id": 22053909,
+				"container_instance_id": "00000001E50DA4DBC2E649100FDA049CC0E0944A"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 304374,
+		"views": [{
+			"type": "smart-icon-button",
+			"id": 304374,
+			"items": [{
+				"id": 703316,
+				"priority": 47,
+				"name": "Book Tickets Now",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703316/1610278428035.png",
+				"url_type": "movietickets",
+				"url": "https://paytm.com/movies",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Movies",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {
+					"label": "Book Tickets Now",
+					"label_text_color": "#00aced",
+					"label_bgcolor": "#e5f6fd"
+				},
+				"seourl": "https://paytm.com/movies",
+				"display_metadata": {
+					"name": "Book Tickets Now",
+					"url": "https://paytm.com/movies",
+					"landing_page_type": "movietickets",
+					"id": 703316,
+					"created_at": "2021-01-06T07:56:24",
+					"metadata": {},
+					"ga_category": "Movies",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1603980286062_20190904.png"
+				},
+				"reason": "D:SA"
+			}, {
+				"id": 703955,
+				"priority": 9,
+				"name": "Pay your Credit Card Bill",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/703955/1610019301185.png",
+				"url_type": "utility_creditcard",
+				"url": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Bill Payments",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {
+					"label": "Pay your Credit Card Bill",
+					"label_text_color": "#00aced",
+					"label_bgcolor": "#e5f6fd"
+				},
+				"seourl": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+				"display_metadata": {
+					"name": "Pay your Credit Card Bill",
+					"url": "paytmmp://utility_creditcard?url=https://catalog.paytm.com/v2/mobile/getproductlist/156705",
+					"landing_page_type": "utility_creditcard",
+					"id": 703955,
+					"created_at": "2021-01-07T08:09:03",
+					"metadata": {
+						"ticker_view_id": ""
+					},
+					"ga_category": "Bill Payments",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1609940293648_15544508117011554441443483.png"
+				},
+				"reason": "D:SA"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 304374,
+				"container_id": 22053881,
+				"container_instance_id": "00000001DAEC13E027A69D949EA110A3DC9867FF"
+			}],
+			"meta_layout": {
+				"bg_color": ""
+			}
+		}]
+	}, {
+		"id": 302728,
+		"views": [{
+			"type": "banner-2_0",
+			"id": 302728,
+			"title": "TODAY'S BLOCKBUSTER-H1 2.0",
+			"image_url": "https://assetscdn1.paytm.com/images/catalog/view/302728/1590043822898.png",
+			"items": [{
+				"id": 723698,
+				"priority": 0,
+				"name": "DOA_Electricity",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/723698/1612267076271.png",
+				"url_type": "utility",
+				"url": "paytmmp://utility?url=https://catalog.paytm.com/v1/mobile/getproductlist/26?group=brand",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://utility?url=https://catalog.paytm.com/v1/mobile/getproductlist/26?group=brand",
+				"bannerId": "723698",
+				"subContext": "banner-2_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant I",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 722728,
+				"priority": 0,
+				"name": "DOA_Paymode new default",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722728/1612105734198.jpg",
+				"url_type": "mobile-prepaid",
+				"url": "paytmmp://mobile-prepaid?url=https://catalog.paytm.com/v1/mobile/mobile-prepaid/17",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://mobile-prepaid?url=https://catalog.paytm.com/v1/mobile/mobile-prepaid/17",
+				"bannerId": "722728",
+				"subContext": "banner-2_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant G",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 722730,
+				"priority": 0,
+				"name": "DOA_Add Money Default",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722730/1612106407692.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=add_money",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://cash_wallet?featuretype=add_money",
+				"bannerId": "722730",
+				"subContext": "banner-2_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant K",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 712387,
+				"priority": 0,
+				"name": "OnboardingKYC_C1_2.0",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/712387/1610704854121.jpg",
+				"url_type": "embed",
+				"url": "paytmmp://upgrade_wallet",
+				"source": "widgetServe",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://upgrade_wallet",
+				"bannerId": "712387",
+				"subContext": "banner-2_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant J",
+				"reason": "JOURNEY:onboardinguat"
+			}, {
+				"id": 722366,
+				"priority": 0,
+				"name": "DOA_Link bank A/c",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/722366/1611988691528.png",
+				"url_type": "embed",
+				"url": "paytmmp://upi_landing",
+				"source": "widgetServe",
+				"item_id": 0,
+				"layout": {},
+				"seourl": "paytmmp://upi_landing",
+				"bannerId": "722366",
+				"subContext": "banner-2_0",
+				"ct_campaign_id": "50115_20210204",
+				"j": "56747419",
+				"ct_variant_id": "Variant H",
+				"reason": "JOURNEY:onboardinguat"
+			}],
+			"datasources": [{
+				"manage_by_ct": 1,
+				"view_id": 302728,
+				"view_type": "banner-2_0",
+				"container_id": 22053606,
+				"fulfilled_by": "WIDGET_SERVE"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"class": "home",
+			"auto_scroll": "True",
+			"dwell_time": "5.0",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 304933,
+		"views": [{
+			"type": "smart-icon-grid-4xn",
+			"id": 304933,
+			"title": "Discover with Paytm",
+			"items": [{
+				"id": 689870,
+				"priority": 1,
+				"name": "1mg",
+				"title": "1mg",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689870/1606970892222.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=48d1dd1651e8e938906c6748bda40fe58b2a6747",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=48d1dd1651e8e938906c6748bda40fe58b2a6747",
+				"reason": "D:SD"
+			}, {
+				"id": 689871,
+				"priority": 4,
+				"name": "Ola",
+				"title": "Ola",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689871/1606970951807.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=b41faf389d1b6c4f5ca2a4f67c4b7a5f857bd138&data=eyJzcGFyYW1zIjp7ImNhblB1bGxEb3duIjpmYWxzZSwicHVsbFJlZnJlc2giOmZhbHNlLCJzaG93VGl0bGVCYXIiOmZhbHNlfX0=&use_phx=true&url=https://webappsstatic.paytm.com/h5olaoffapp/v1/index.html",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=b41faf389d1b6c4f5ca2a4f67c4b7a5f857bd138&data=eyJzcGFyYW1zIjp7ImNhblB1bGxEb3duIjpmYWxzZSwicHVsbFJlZnJlc2giOmZhbHNlLCJzaG93VGl0bGVCYXIiOmZhbHNlfX0=&use_phx=true&url=https://webappsstatic.paytm.com/h5olaoffapp/v1/index.html",
+				"reason": "D:SD"
+			}, {
+				"id": 689877,
+				"priority": 5,
+				"name": "Hubhopper",
+				"title": "Hubhopper",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689877/1606970896328.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=68c7d03b1d21165197136b15efb62b186ee4713e&data=eyJwYXJhbXMiOiI/dXRtX3NvdXJjZT1wYXl0bSZ1dG1fbWVkaXVtPWFwcGNvbnRhaW5lciZ1dG1fY2FtcGFpZ249UGF5dG1fSW50ZWdyYXRpb24ifQ==&use_phx=true&url=https://paytm-mini.hubhopper.com/",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=68c7d03b1d21165197136b15efb62b186ee4713e&data=eyJwYXJhbXMiOiI/dXRtX3NvdXJjZT1wYXl0bSZ1dG1fbWVkaXVtPWFwcGNvbnRhaW5lciZ1dG1fY2FtcGFpZ249UGF5dG1fSW50ZWdyYXRpb24ifQ==&use_phx=true&url=https://paytm-mini.hubhopper.com/",
+				"reason": "D:SD"
+			}, {
+				"id": 689872,
+				"priority": 6,
+				"name": "Netmeds",
+				"title": "Netmeds",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689872/1606970898248.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=308366578027711372a029a70ade69dab9d7cef7",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=308366578027711372a029a70ade69dab9d7cef7",
+				"reason": "D:SD"
+			}, {
+				"id": 689873,
+				"priority": 7,
+				"name": "BookBySlot",
+				"title": "Bookbyslot",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689873/1606970901445.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=1188365f817945abc1901b2c6f85c7050cf600c9&use_phx=true&url=https://www.bookbyslot.com/",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=1188365f817945abc1901b2c6f85c7050cf600c9&use_phx=true&url=https://www.bookbyslot.com/",
+				"reason": "D:SD"
+			}, {
+				"id": 689874,
+				"priority": 8,
+				"name": "Speedtest",
+				"title": "Speedtest",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689874/1606970961487.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=3eb0ae62c9e0181567ab11f28791d786d08dce82&use_phx=true&url=https://webappsstatic.paytm.com/h5speedtestoffapp/v1/index.html",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=3eb0ae62c9e0181567ab11f28791d786d08dce82&use_phx=true&url=https://webappsstatic.paytm.com/h5speedtestoffapp/v1/index.html",
+				"reason": "D:SD"
+			}, {
+				"id": 689875,
+				"priority": 9,
+				"name": "Horoscope",
+				"title": "Horoscope",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689875/1606979260754.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=fa22a4d5c7b6e1a8d0f211508418513fdcf354c5&use_phx=true&url=https://webappsstatic.paytm.com/h5horoscopeoffapp/v1/index.html",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=fa22a4d5c7b6e1a8d0f211508418513fdcf354c5&use_phx=true&url=https://webappsstatic.paytm.com/h5horoscopeoffapp/v1/index.html",
+				"reason": "D:SD"
+			}, {
+				"id": 689876,
+				"priority": 10,
+				"name": "DocsApp",
+				"title": "DocsApp",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/689876/1606974337529.png",
+				"url_type": "embed",
+				"url": "paytmmp://mini-app?aId=41d4567b3572d56eb394fbfbe24c65a819a5faee",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"layout": {},
+				"seourl": "paytmmp://mini-app?aId=41d4567b3572d56eb394fbfbe24c65a819a5faee",
+				"reason": "D:SD"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 304933,
+				"container_id": 22053935,
+				"container_instance_id": "00000001D2B1EF1AE17BF0CE4BD7D76958A9F369"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}, {
+		"id": 302621,
+		"views": [{
+			"type": "list-small-ti",
+			"id": 302621,
+			"items": [{
+				"id": 632066,
+				"priority": 1,
+				"name": "Cashback & Offers",
+				"subtitle": "View your scratchcards, points & other offers",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/632066/1606922633589.png",
+				"url_type": "embed",
+				"url": "paytmmp://cash_wallet?featuretype=vip&screen=newvouchers",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://cash_wallet?featuretype=vip&screen=newvouchers",
+				"display_metadata": {
+					"subtitle": "View your scratchcards, points & other offers",
+					"name": "Cashback & Offers",
+					"url": "paytmmp://cash_wallet?featuretype=vip&screen=newvouchers",
+					"landing_page_type": "embed",
+					"id": 632066,
+					"created_at": "2020-09-09T10:07:55",
+					"ga_category": "Others",
+					"title": "",
+					"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/591582/1597294925061.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 706606,
+				"priority": 6,
+				"name": "Refer & Earn up to ₹100",
+				"subtitle": "Earn up to ₹100 cashback every time a friend makes their 1st payment from Bank A/c on Paytm",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/706606/1611901923125.png",
+				"url_type": "embed",
+				"url": "paytmmp://referral?tag=referral_all",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"group_view_id": {
+					"icon_view_id": [],
+					"ticker_view_id": [],
+					"search_keywords": []
+				},
+				"valid_from": "2021-01-07 15:47:00",
+				"valid_upto": "2021-02-28 23:59:00",
+				"layout": {},
+				"seourl": "paytmmp://referral?tag=referral_all",
+				"display_metadata": {
+					"subtitle": "Earn up to ₹100 cashback every time a friend makes their 1st payment from Bank A/c on Paytm",
+					"name": "Refer & Earn up to ₹100",
+					"url": "paytmmp://referral?tag=referral_all",
+					"landing_page_type": "embed",
+					"id": 706606,
+					"created_at": "2021-01-07T10:15:50",
+					"metadata": {},
+					"ga_category": "Others",
+					"title": "",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1605098130015_widgeticon.png"
+				},
+				"reason": "S:SS"
+			}, {
+				"id": 632067,
+				"priority": 10,
+				"name": "Become a Merchant",
+				"subtitle": "Get All-in-One-QR instantly & start accepting payments",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/632067/1602742245765.png",
+				"url_type": "embed",
+				"url": "paytmmp://accept_money",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://accept_money",
+				"display_metadata": {
+					"subtitle": "Get All-in-One-QR instantly & start accepting payments",
+					"name": "Become a Merchant",
+					"url": "paytmmp://accept_money",
+					"landing_page_type": "embed",
+					"id": 632067,
+					"created_at": "2020-09-09T10:07:55",
+					"ga_category": "Others",
+					"title": "",
+					"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/591587/1593439646294.png"
+				},
+				"reason": "D:SD"
+			}, {
+				"id": 637560,
+				"priority": 13,
+				"name": "24X7 Help & Support",
+				"subtitle": "Get quick resolution on queries related to Paytm",
+				"image_url": "https://assetscdn1.paytm.com/images/catalog/view_item/637560/1602742305220.png",
+				"url_type": "embed",
+				"url": "paytmmp://contactus",
+				"source": "bp-reco-v1",
+				"item_id": 0,
+				"ga_category": "Others",
+				"layout": {},
+				"seourl": "paytmmp://contactus",
+				"display_metadata": {
+					"subtitle": "Get quick resolution on queries related to Paytm",
+					"name": "24X7 Help & Support",
+					"url": "paytmmp://contactus",
+					"landing_page_type": "embed",
+					"id": 637560,
+					"created_at": "2020-09-14T07:07:33",
+					"metadata": {},
+					"ga_category": "Others",
+					"title": "",
+					"image_url": "https://map-cma-images-production.s3-ap-south-1.amazonaws.com/en-creatives/1593437624836_15911070313741.png"
+				},
+				"reason": "D:SD"
+			}],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302621,
+				"container_id": 22053560,
+				"container_instance_id": "00000001F39848ADCE649D3963BB59F518468A61"
+			}],
+			"meta_layout": {
+				"bg_color": ""
+			},
+			"auto_scroll": "False"
+		}]
+	}, {
+		"id": 302730,
+		"views": [{
+			"type": "scratchcard-popup",
+			"id": 302730,
+			"title": "scratchcard-popup",
+			"items": [],
+			"datasources": [{
+				"type": "bp-reco-v1",
+				"list_id": 302730,
+				"container_id": 22053608,
+				"container_instance_id": "-1"
+			}],
+			"meta_layout": {
+				"bg_color": "",
+				"bg_gradient": []
+			},
+			"auto_scroll": "False",
+			"is_bg_active": false
+		}]
+	}],
+	"footer_image_url": "https://assetscdn1.paytm.com/images/catalog/category/5165/footer1.png",
+	"placeholder_image_url": "https://assetscdn1.paytm.com/images/catalog/category/5165/placeholder.png",
+	"ga_key": "/",
+	"image_url": "https://assetscdn1.paytm.com/images/catalog/decorator/55486/1599645218285.jpeg",
+	"entity_type": "category",
+	"long_rich_desc": "<h1><br><b>Paytm - India's Most Popular Platform for Money Transfer, BHIM UPI Payments, Recharges and other online payments</b></h1><p>Paytm - India’s largest mobile e-commerce website is an ultimate destination for prompt <a href=https://paytm.com/recharge>Online Recharge</a>, DTH, Data Card & Metro Card Recharge and Mobile Bill Payment for Airtel, Aircel, BSNL, Idea, MTNL, Vodafone & other operators for all the circles across India. Enjoy our online recharge and bill payment service along with best bonus packs of internet & roaming within a jiffy. <br/><br/>\nNow you don’t have to look at various websites to find the best entertainment option in your city. You can book movie tickets, event tickets and travel tickets within minutes on Paytm.com. Paytm login is very easy on the <a href=http://paytm.com/download-paytm-app>Paytm app</a> and Paytm website. Just enter your number and Password/OTP to login and process all the transactions instantly on Paytm. </p>\n<h2><b>Mobile Recharge - Airtel, Vodafone, Idea, Jio, BSNL, MTNL, and More</b></h2><p>Now making an online recharge has become very easy and safe with your Paytm account on Paytm.com. Effortlessly make payments through our safe methods, processed through secured gateways for <a href=https://paytm.com/recharge/airtel-prepaid-mobile-online-recharge>Airtel Recharge</a>, <a href=https://paytm.com/recharge/jio-prepaid-mobile-online-recharge>Jio Recharge</a>, <a href=https://paytm.com/recharge/vodafone-idea-prepaid-mobile-online-recharge>Vodafone Idea Recharge</a>, <a href=https://paytm.com/recharge/mtnl-prepaid-mobile-online-recharge>MTNL Recharge</a>, <a href=https://paytm.com/recharge/bsnl-prepaid-mobile-online-recharge>BSNL Recharge</a>. Paytm also provide you with exciting cashback and offers on Paytm.<br/><br/> \nAll The Latest Plans And Packs For Your Mobile Recharge- Paytm makes it very easier for you to make recharge online with Paytm. You can browse all the latest recharge plans and offers right on Paytm itself. More than that, Paytm.com or Paytm app fetches your operator and circle automatically as soon as you enter your number, making the process faster and easier for you. </p>\n<h2><b>Online Tickets - Flight Tickets, Train Tickets, Bus Tickets And Hotels Booking with Great Ease</b></h2><p>Save money and time by booking your travel tickets on Paytm. You can find <a href=https://paytm.com/flights>cheap flight tickets</a>, train tickets and bus tickets on Paytm. Compare the prices, get schedules, pick the best-suited seat and experience easy ticket booking services online. You can also save money on your travel by applying promo codes on flights, buses, trains & <a href=https://paytm.com/hotels>hotels bookings</a> to get cashback in your Paytm wallet on your travel tickets.<br/><br/>\n<b>Flight Tickets-</b> Make your flight booking online on Paytm to find cheap flight tickets and <a href=https://paytm.com/offer/flight-tickets>flight tickets offers</a>. Just enter your boarding and destination city to know all the flight tickets prices for both <a href=https://paytm.com/flights/domestic-tickets>domestic flights</a> and <a href=https://paytm.com/flights/international-tickets>international flights</a>.<br/><br/>\n<b>Train Ticket Booking-</b> <a href=https://paytm.com/train-tickets/pnr-status>Check PNR status</a>, find train schedule and get <a href=https://paytm.com/train-tickets/seat-availability>train seat availability</a> for your online <a href=https://paytm.com/train-tickets>train ticket bookings</a>. Just enter your boarding and destination station or city to know all the train ticket prices. Make instant train reservation through Paytm and save money with cashback.<br/><br/>\n<b>Bus Tickets-</b> Make fast online <a href=https://paytm.com/bus-tickets>bus ticket booking</a> for both AC and Non-AC buses, private and government buses on Paytm. Find all the buses and timings along with <a href=https://paytm.com/offer/bus-tickets/>bus ticket offers</a> for your bus tickets.</p>\n<h3><b>Mobile, DTH and Data Card Recharge & Payment On-The-Go</b></h3><p>No need to rush to the market for <a href=https://paytm.com/dth-recharge>DTH Recharge</a> or <a href=https://paytm.com/mobile-bill-payment>Mobile Bill Payment</a>, just login to Paytm and make immediate payments. Cherish your experience with exciting Cashback and Discounts on every recharge or bill payment you make with us. Our online recharge and bill payment service is a one-stop solution for fast & easy Prepaid Mobiles, DTH & <a href=https://paytm.com/datacard-recharge>Data Card recharge</a> and Postpaid Mobiles.<br/><br/>\n<b>DTH Recharge-</b> Make DTH recharge online and get DTH recharge offers on Paytm. <a href=https://paytm.com/dth-recharge/tata-sky>Tata sky recharge</a>, <a href=https://paytm.com/dth-recharge/airtel-digital-tv>Airtel DTH recharge</a>, <a href=https://paytm.com/dth-recharge/d2h>Videocon D2H recharge</a>, <a href=https://paytm.com/dth-recharge/sun-direct>Sun Direct recharge</a>, <a href=https://paytm.com/dth-recharge/dish-tv>Dish TV recharge</a> and more on Paytm.com. Find all the latest DTH recharge offers and plans only on Paytm. <br/><br/>\n<b>Data Card Recharge-</b> Get your <a href=https://paytm.com/datacard-recharge/airtel>Airtel Data Card Recharge</a>, <a href=https://paytm.com/datacard-recharge/vodafone>Vodafone Data Card Recharge</a>, <a href=https://paytm.com/datacard-recharge/jio>Jio Data Card Recharge</a>, <a href=https://paytm.com/datacard-recharge/idea>Idea Data Card Recharge</a>, <a href=https://paytm.com/datacard-recharge/idea>BSNL Data Card Recharge</a> and <a href=https://paytm.com/datacard-recharge/mtnl>MTNL Data Card Recharge</a> now on Paytm.com and avail cashback by applying promo codes. <br/><br/>\n<b>Data Card Bill Payment:</b> Pay your data card bills on your postpaid connection of <a href=https://paytm.com/datacard-bill-payment/airtel>Airtel</a>, <a href=https://paytm.com/datacard-bill-payment/idea>Idea</a>, <a href=https://paytm.com/datacard-bill-payment/vodafone>Vodafone</a>.<br/> <br/>\nVisit us and recharge your Prepaid Mobile, DTH and Data Card or Make Postpaid Mobile Bill Payments and other Utility Bill Payments in a click and indulge into an unbelievable <a href=https://paytmmall.com>online shopping</a> experience.</p>\n<h3><b>Buy FASTag Online And Move Quickly Through the Toll Lanes:</b></h3> <p>Avoid long queues at the toll lanes and move quickly through them with the help of Paytm <a href=\"https://paytm.com/fastag\">FASTag</a>. It is very easy to buy FASTag for your vehicle at Paytm in just a few minutes. Order Toll-Tag now or just register for one at Paytm instantly and drive freely with the toll tags.</p>\n<h3><b>Online Bill Payment Postpaid Bills, Quick Utility Bill, Insurance, Loan & Education Fee Payment</b></h3>\n<p><b>Postpaid Bill Payment-</b> Mobile Post-paid bill payments for all the renowned operators such as <a href=https://paytm.com/mobile-bill-payment/airtel-postpaid>Airtel</a>, <a href=https://paytm.com/mobile-bill-payment/vodafone-idea-postpaid>Vodafone Idea Postpaid</a>, <a href=https://paytm.com/mobile-bill-payment/jio-postpaid>Jio</a>, <a href=https://paytm.com/mobile-bill-payment/bsnl-postpaid>BSNL</a>, <a href=https://paytm.com/mobile-bill-payment/mtnl-dolphin-postpaid>MTNL</a> are available on Paytm.com. <br/><br/>\nPay <a href=https://paytm.com/electricity-bill-payment>Electricity Bill</a>, <a href=https://paytm.com/gas-bill-payment>Gas Bill</a> & <a href=https://paytm.com/water-bill-payment>Water Bill</a> instantly in just a few clicks Enjoy uncomplicated utility bill online payment service without even travelling to the stores at Paytm. We are no doubt a reliable platform for speedy electricity, gas & water bill payment.<br/><br/>\n<b>Electricity Bill Payment-</b> Pay your electricity bills online on Paytm.com and avoid waiting in the queues for hours with Paytm.com. Pay electricity bills in <a href=https://paytm.com/electricity-bill-payment/goa>Goa Electricity Bill Payment</a>, <a href=https://paytm.com/electricity-bill-payment/bihar>Bihar Electricity Bill Payment</a>, <a href=https://paytm.com/electricity-bill-payment/haryana>Haryana Electricity Bill Payment</a>, <a href=https://paytm.com/electricity-bill-payment/maharashtra>Maharashtra Electricity Bill Payment</a>, <a href=https://paytm.com/electricity-bill-payment/punjab>Punjab Electricity Bill Payment</a>, <a href=https://paytm.com/electricity-bill-payment/telangana>Telangana Electricity Bill Payment</a> and many more cities. <br/><br/>\n<b>Gas And Water Bill Payment-</b> Pay your water bills within seconds in of <a href=https://paytm.com/water-bill-payment/delhi-jal-board-djb>Delhi Jal Board</a>, <a href=https://paytm.com/water-bill-payment/indore-municipal-corporation-water>Indore Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/gwalior-municipal-corporation-water>Gwalior Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/bhopal-municipal-corporation-water>Bhopal Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/bangalore-water-supply-and-sewerage-board-bwssb>Bangalore Water Supply and Sewage Board</a>, <a href=https://paytm.com/water-bill-payment/surat-municipal-corporation-water>Surat Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/pune-municipal-corporation-water>Pune Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/nagpur-municipal-corporation-orange-city-water-nagpur>Nagpur Municipal Corporation</a>, <a href=https://paytm.com/water-bill-payment/uttarakhand-jal-sansthan>Uttrakhand Jal Sansthan</a> and more.<br/><br/> \nPay gas bills of <a href=https://paytm.com/gas-bill-payment/indraprastha-gas-limited>Indraprastha Gas Limited</a>, <a href=https://paytm.com/gas-bill-payment/gujarat-gas-limited>Gujarat Gas Limited</a>, <a href=https://paytm.com/gas-bill-payment/adani-gas-limited>Adani Gas Limited</a>, <a href=https://paytm.com/gas-bill-payment/aavantika-gas-ltd>Aavantika Gas Limited</a>, <a href=https://paytm.com/gas-bill-payment/vadodara-gas-limited-vgl>Vadodara Gas Limited</a>, <a href=https://paytm.com/gas-bill-payment/maharashtra-natural-gas-limited-mngl>Maharashtra Natural Gas Ltd</a> and more. <br/><br/> \n<b>Fee Payment, Metro Card Recharge, Insurance Premium and Gold Loan-</b> Forget those gigantic queues, <a href=https://paytm.com/education>pay admission fee</a> or registration fee for various Institutes, Schools & Colleges online here and save your time. We ensure to provide you with a seamless and speedy service every time you visit us. Now you can also <a href=https://paytm.com/metro-card-recharge>recharge metro card</a> and instantly <a href=https://paytm.com/insurance-premium-payment>pay insurance premium</a> & gold loan online with Paytm through the comfort of wherever you are.<br/><br/>\n<b>Landline And Broadband Bill Payment-</b> Pay landline and broadband bills of all the major operators such as <a href=https://paytm.com/landline-bill-payment/airtel>Airtel</a>, <a href=https://paytm.com/landline-bill-payment/bsnl>BSNL</a>, <a href=https://paytm.com/broadband-bill-payment/hathway-broadband>Hathway</a>, <a href=https://paytm.com/broadband-bill-payment/asianet-broadband>Asianet Broadband</a>, <a href=https://paytm.com/broadband-bill-payment/alliance-broadband>Alliance Broadband</a>, <a href=https://paytm.com/broadband-bill-payment/tata-tele-broadband>Tata</a> and many more at Paytm.com.</p>\n<h3>Mutual Fund Investments made Simple, Transparent and Accessible with Paytm Money</h3> <P>Ab Mutual Funds ke liye bhi Paytm Karo. Presenting, Paytm Money - India's Most Sincere Wealth Adviser. You can now begin your <a href=https://www.paytmmoney.com/>mutual fund investment</a> journey on the Paytm Money App with 100% paperless KYC verification. Open your investment account within minutes & start an SIP in mutual funds with just Rs.100 on the very same day. Take an assessment of your appetite for risk with our Free Risk Profile Assessment. Explore and invest in the <a href=https://www.paytmmoney.com/mutual-funds/best-return-funds>best mutual funds</a> rated by leading research agencies and achieve your personal and financial goals.</p> <p>At Paytm Money, you can manage your SIPs, request portfolio-related statements and view the latest portfolio updates. Enjoy the <a href=https://www.paytmmoney.com/mutual-funds/benefits/>Mutual Fund benefits</a> of absolutely secure investments on the Paytm Money platform with convenient payment options like Net Banking, UPI and auto-Pay.</p>\n <h3><b>Money Bank Transfer Made Instant & Easy With Paytm</b></h3><p>Transferring money directly to the bank from Paytm is instant and free of cost using Paytm app. Yes, any Paytm user can make a <a href=https://paytm.com/offer/bank-transfer/>bank transfer</a> anytime and anywhere in less than a minute. You can link any bank account using Paytm’s UPI services and no KYC is needed. Moreover, you also get a Cashback of Rs. 50 on your first bank transfer with Paytm. To make money transfer process fast & trouble-free, you can link your account with Paytm in just a few simple steps. Next, you just have to enter the details of the account holder, precisely IFSC code and account number & you are all set to make a bank transfer at 0% charges</p>\n<h4><b>Events, Movies and Endless Entertainment- Live, Laugh, Enjoy with Paytm.com</b></h4><p>Relive the moment and revive your daily routine with an amazing experience at an incredible amusement park. Book tickets for theme parks & water parks in seconds at Paytm.com and get ready to make your day an adventurous one. Enjoy the hottest buzz in the town, do not miss out the latest shows and events of your favourite artists, be it music concert or a carnival, book your tickets online at our portal and catch the beats without any hassle. Our entertainment section enables you to book tickets online for <a href=https://paytm.com/movies>Movies</a>, <a href=https://paytm.com/events>Events</a>, <a href=https://paytm.com/amusement-parks>Amusement Parks</a> & Water Parks at the matter of a few clicks and escape from your busy schedule.<br/><br/>\n<b>Movie Ticket Booking-</b> Find movie showtimes, movie theatres to book your movie tickets online and get movie ticket offers only on Paytm.com <br/><br/>\nPaytm’s <a href=https://paytm.com/care/ticket>24x7</a> Help is always at your service to assist you in case of any difficulties.</p>\n<h4><b>Online Shopping- Find Best Deals Online On Groceries, Appliances And Latest Smart Phones at Paytm</b></h4> <p>Tech Fanatics, if you are eager to buy the best <a href=https://paytmmall.com/mobiles-tablets-clpid-6942>mobile</a> phones then here is an ultimate mobile destination for you. Discover the wide selection of mobiles like VIVO V15 Pro, Oppo F11 Pro, Samsung Galaxy A50, iPhone X, Redmi Y2, Lenovo K8 Note, VIVO Y55S, Redmi Note 6 Pro so on that offers the perfect combination of performance and exciting features. There is a lot more for you to explore, check out the exhaustive collection of the latest smartphones at great discounts and Cashbacks on Paytm Mall.\nAdd a brand new vehicle to your collection, enjoy the exclusive online pre-booking service for <a href=https://paytmmall.com/cars-bikes-clpid-836>new cars & bikes</a> at Paytm. Be the first one to bring home the newly launched automobile, forget sweating for owning the latest car & bike in the town. With Paytm, you can make pre-booking online for cars & bikes in seconds along with exclusive offers that are especially for you. <br/><br/>\nCashback would be added as Paytm Cash, which is One97 Communications Ltd. loyalty program. It can be used to pay for goods & services sold by merchants that accept ‘Pay with Paytm’.<br/><br/>\nGrab jaw-dropping <a href=https://paytm.com/coupons>Paytm Coupons</a>, Deals, Discounts & Cashback Offers while shopping, who wouldn’t love to shop at discounted prices Paytm presents several <a href=https://paytm.com/offer/>offers</a> across a huge range of products under our stimulating stores. Shop more & save even more at Sunday Bazaar, Bargain Bazaar and Under 199 stores. Double the joy of weekend shopping, avail electrifying offers at our Sunday Bazaar, this is surely going to make your Sunday more amazing Buy your favourites at the lowest price possible with tons of discounts at Under 199 Store and shop more with smartness from our irresistible Bargain Bazaar.</p> <h4><b>Frequently Asked Questions</b></h4><p><b>What is Paytm?</b><br/>Paytm stands for Pay through mobile and it is India’s largest mobile payments and commerce platform. It lets you transfer money instantly to anyone at zero cost using the Paytm Wallet. You can make cashless transactions at several places like taxi and autos, petrol pumps, grocery shops, restaurants, coffee shops, multiplexes, and many more. You can also use Paytm to pay for online recharges, utility bill payments, book movie or travel tickets among other things on the Paytm app or website.<br/><br/>\n<b>How to create Paytm account?</b><br/>1. Open your Paytm app<br/>2. Tap on ‘Create A New Account’ <br/>3. Enter your mobile that you want to use for Paytm, email address and a password<br/>4. Tap on ‘Create a New Account’ <br/>5. Enter the OTP that you will receive on your mobile number and click on ‘Submit’ <br/>6. Enter your First Name, Last Name and DOB<br/>7. Click on ‘Create Account’<br/>8. Your account has been created<br/><br/>\n<b>How to use Paytm?</b><br/>You can use Paytm for many different things such as online recharge, shopping, pay fees, bills and a lot more thing. You will need to at least one of your bank account to your Paytm account and then you can enjoy India’s fastest online transactions and payment service. <br/><br/>\n<b>How to transfer money back from Paytm to bank account?</b><br/>Follow the steps to transfer money from Paytm wallet to a bank account-<br/> 1. Open your ‘Passbook in your Paytm app<br/>2. Click on ‘Send Money to Bank’<br/>3. Enter the transaction amount and account details<br/>4. Click on ‘Proceed’<br/>5. Your transaction is complete. <br/><br/>\nNote that Paytm charges you 4% of the transaction when you transfer money from your Paytm wallet to a bank account. <br/><br/>\n<b>How to do KYC in Paytm?</b><br/>To do your KYC in Paytm, you need to log in to your account on Paytm app and follow these steps-<br/>1. Go to your ‘My Profile Settings’ section in Paytm app.<br/> 2. Tap on ‘Complete your KYC’ <br/>3. Select your state and district<br/>4. You will see a list of KYC centres as per the details you have filled. Go to the nearby KYC store to complete your KYC. You will have to carry the required documents such as Aadhar card, Voter ID card, PAN card etc. <br/><br/>\n<b>How to get free Paytm cash back?</b><br/>You can get free Paytm cash back by applying promo codes while you are proceeding your transactions. Tap on ‘Cashback’ on the top right corner of your Paytm app to find daily promo codes and offers. You can get additional cash back by purchasing a gift voucher on Paytm. <br/><br/>\n<b>How to add beneficiary in Paytm?</b><br/>1. Go to ‘My Payment Settings’ on Paytm app. <br/>2. Tap on ‘Manage Beneficiaries’<br/>3. Tap on ‘Add New Beneficiary’<br/>4. Enter account details or wallet number of the beneficiary. <br/>5. Tap on ‘Add Beneficiary’ <br/>6. Enter OTP received on your number<br/>7. Beneficiary is added succesfully<br/><br/>\n<b>How to add money in Paytm wallet?</b><br/>To add money in your Paytm wallet follow these simple steps-<br/>1. Go to your ‘Passbook’<br/>2. Tap on ‘Paytm Wallet’<br/>3. Tap on ‘Add money to Paytm Wallet’<br/>4. Enter the amount you want to add in your wallet and click on ‘Add Money’<br/>5. Select your mode of the transaction- bank account, debit card, credit card, net banking or BHIM UPI<br/>6. Enter account/card details and tap on ‘Pay Securely’<br/>7. Enter OTP that you will receive on your mobile number<br/>8. Money is added in your wallet<br/><br/>\n<b>How to pay through Paytm?</b><br/>1. Tap on ‘Pay’ on Paytm app<br/>2. Scan the QR code or enter the number of the beneficiary that you want to pay<br/>3. Enter the amount<br/>4. Pay using your Paytm wallet or add money to your Paytm wallet from your bank account if the wallet has insufficient funds<br/>5. The money is paid to the beneficiary<br/><br/>\n<b>How to use Paytm in Hindi?</b><br/>1. Download Paytm App from here<br/>2. Tap on the top left corner button on your Paytm app<br/>3. Tap on ‘Choose Language’<br/>4. Select ‘Hindi’ as the language and tap on ‘Continue’ <br/>5. You can use your Paytm app in Hindi now<br/><br/>\n<b> How to contact Paytm customer care executive? </b><br/>You can get in touch with the customer care executive by calling at one of the following Paytm customer care numbers-<br/>1. Bank, Wallet and Payments- 0120-4456-456<br/>2. Movies and Events Tickets- 0120-4728-728<br/>3. Paytm Mall Shopping Orders- 0120-4606060<br/>4. Paytm Travel Tickets and Forex- 0120-4880-880<br/><br/>\n<b>How to pay electricity bill by Paytm?</b><br/>1. Go to electricity bill payment page on Paytm website or Paytm app<br/>2. Select your state<br/>3. Select your board<br/>4. Enter your consumer number<br/>5. Pay your bill through debit card, credit card, net banking or Paytm wallet<br/><br/>\n<b>How to reset Paytm password?</b><br/>1. Tap on ‘My Security Settings’ on your Paytm app<br/>2. Select ‘Change Password’<br/>3. Enter your current password<br/>4. Enter a new password and retype your new password in the box belowTap on ‘Save’<br/>5. Your password has been changed</p>",
+	"redirect": true,
+	"redirect_url": "https://storefront.paytm.com/paytm-homepage-clpid-55486",
+	"contextParams": {},
+	"ga_category": "Mall-Others",
+	"layout": {}
+}
